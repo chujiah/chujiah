@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type==rect&color=gradient&height=300&section=header&text=JIAH%20CHU&fontSize=90)
+
+<!-- ![header](https://capsule-render.vercel.app/api?type==rect&color=gradient&height=300&section=header&text=JIAH%20CHU&fontSize=90)
+-->
 
 <p>Contacts</p>
 <a href="https://www.linkedin.com/in/%EC%A7%80%EC%95%84-%EC%A3%BC-5244222aa/" target="_blank"><img src="https://img.shields.io/badge/JIAHCHU-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EC%A7%80%EC%95%84-%EC%A3%BC-5244222aa/" target="_blank"><img src="https://img.shields.io/badge/EMAIL-03C75A?style=flat-square&logo=gmail&logoColor=white"/></a>
