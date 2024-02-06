@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>Hi there! :wave: I'm Jiah Chu</center>
+### <div align="center">Hi there, I'm Jiah Chu :wave: </div>
 
-:herb: 안녕하세요! 열정적으로 경험하고 성장하는 주지아입니다.
+<div align="center">열정과 창의력을 바탕으로 도전하고 성장하는 개발자 주지아입니다.</div>
 
 <a href="https://www.linkedin.com/in/%EC%A7%80%EC%95%84-%EC%A3%BC-5244222aa/" target="_blank"><img src="https://img.shields.io/badge/JIAHCHU-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
