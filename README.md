@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 <a href="https://www.linkedin.com/in/%EC%A7%80%EC%95%84-%EC%A3%BC-5244222aa/" target="_blank"><img src="https://img.shields.io/badge/JIAHCHU-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="mailto:wldk0858@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:wldk0858@gmail.com"/></a>
 </div>
