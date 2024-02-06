@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![header](https://capsule-render.vercel.app/api?type==rect&color=gradient&height=300&section=header&text=JIAH%20CHU&fontSize=90)
--->
+<center>Hi there! :wave: I'm Jiah Chu</center>
 
-<p>Contacts</p>
+:herb: 안녕하세요! 열정적으로 경험하고 성장하는 주지아입니다.
+
 <a href="https://www.linkedin.com/in/%EC%A7%80%EC%95%84-%EC%A3%BC-5244222aa/" target="_blank"><img src="https://img.shields.io/badge/JIAHCHU-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/%EC%A7%80%EC%95%84-%EC%A3%BC-5244222aa/" target="_blank"><img src="https://img.shields.io/badge/EMAIL-03C75A?style=flat-square&logo=gmail&logoColor=white"/></a>
